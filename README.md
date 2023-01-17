@@ -1,2 +1,2 @@
 # LHS
-Learning Health Systems Journal CBKs
+Learning Health Systems Journal CBKs.
